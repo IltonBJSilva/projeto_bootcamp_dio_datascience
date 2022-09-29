@@ -62,3 +62,4 @@ df["PIB"].mean()
 
 #Soma do PIB
 df["PIB"].sum()
+
